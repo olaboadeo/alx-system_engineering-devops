@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf "\"\(Ôo\)\'"
+printf "\"(Ôo)\'"
